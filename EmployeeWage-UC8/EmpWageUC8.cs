@@ -37,7 +37,7 @@ namespace EmployeeWage_UC8_Day9
             }
             int totalEmpWage = totalEmpHrs * empRatePerHour;
             Console.WriteLine("Total Emp Wage for company: " + company + " is : " + totalEmpWage);
-            return totalEmpWage;
+            
         }
 
     }
